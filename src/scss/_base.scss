@@ -19,5 +19,13 @@ header {
 footer {
     background-color: rgb(59, 58, 58);
     color: white;
-    font-size: 2em;
+}
+
+.overridelinks a {
+    color: rgb(122, 183, 190)  ;
+    text-decoration: none;  
+}
+
+.overridelinks a:hover {
+    color: rgb(145, 145, 145);  
 }
