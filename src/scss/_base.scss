@@ -1,7 +1,23 @@
 // Your own styles
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(82, 80, 80);
+}
+
+.container {
+    padding-left: 0;
+}
+
+header {
+    padding: 1.5em 0;
+}
+
 footer {
     background-color: rgb(83, 81, 81);
     color: white;
 }
-
 
